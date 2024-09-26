@@ -1,0 +1,423 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+                 /* header sratrt */
+  header {
+    padding:  0;
+    
+    }
+    .menu ul li a {
+      padding: 8px  16px !important;
+    
+    }
+    .btn_common {
+       margin-left: 10px;
+      }
+       /* banner starts */
+       .slider_h1 {
+        font-size: 42px;
+  
+    }
+    .banner_wp {
+      padding: 180px 10px 60px;
+  }
+  .slider_h1 {
+    margin: 10px 0 14px 0;
+  
+  }
+  .slider_h3 {
+    font-size: 22px;
+    letter-spacing: 1px;
+  
+  }
+  .btn_sign {
+    font-size: 14px;
+}
+.btn_sign span i {
+  padding: 0 0 0 4px;
+}
+.bnn_btn {
+  padding: 35px 16px 30px;
+}
+  /* about start */
+  .about {
+    padding: 50px 0 40px;
+  }
+  .abt_text{
+    padding-left: 0;
+ }
+  .abt_h2 {
+    font-size: 27px;
+}
+.abt_li li {
+  padding: 8px 0;
+}
+.abt_img img {
+  padding: 0 35px;
+}
+/* service starts */
+.abt_h2 {
+  font-size: 32px;
+}
+.serv_item{
+  margin-top: 25px;
+}
+/* service start */
+.spc_item {
+  padding: 40px 2px 0;
+}
+/* rate/plan starts */
+.plan_item {
+  margin: 40px 24px 2px;
+}
+/* you eant starts */
+.you_want {
+  margin: 0;
+}
+.want_p {
+  padding-right: 0;
+}
+/* contart start */
+.cont_btn {
+  font-size: 16px;
+  padding: 12px 30px;
+ 
+}
+.cont_h2 {
+  font-size: 30px
+}
+
+.cont_r_h3 {
+  padding-bottom: 14px;
+  font-size: 24px;
+
+}
+.cont_r{
+  padding-top: 40px;
+  border:none;
+  text-align: center !important;
+  
+}
+/* dowenload start */
+.dw_img {
+  padding: 40px 20px 0px;
+}
+/* sponsor start */
+.sponsor{
+  padding:50px 0  0;
+}
+/* footer starts */
+.ft_logo img {
+  padding: 0 10px 20px;
+}
+.foot_h2 {
+  padding-top: 45px;
+}
+.cmmn_btn {
+  padding: 12px 14px;
+}
+.ft_titel {
+  padding: 0;
+}
+.footer-buttom {
+  margin-top: 60px;
+  padding: 16px 0 10px;
+
+}
+  }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+             /* header sratrt */
+  header {
+    padding:  0;
+    
+    }
+    .menu ul li a {
+      padding: 10px  16px !important;
+    
+    }
+    .btn_common {
+       margin-left: 10px;
+      }
+       /* banner starts */
+       .slider_h1 {
+        font-size: 42px;
+  
+    }
+    .banner_wp {
+      padding: 220px 0px 80px;
+  }
+  .slider_h1 {
+    margin: 10px 0 14px 0;
+  
+  }
+  .slider_h3 {
+    font-size: 26px;
+    letter-spacing: 4px;
+  
+  }
+  /* about start */
+  .about {
+    padding: 60px 0 50px;
+  }
+  .abt_img img {
+    padding: 0 80px;
+  }
+  .abt_h2 {
+    font-size: 32px;
+}
+.abt_text{
+  padding-left: 6px;
+}
+/* service start*/
+.spc_item {
+  padding: 45px 56px 0;
+
+}
+/* rate/plan starts */
+.plan_item {
+  margin: 40px 65px 2px;
+}
+/* you eant starts */
+.you_want {
+  margin: 0;
+}
+.want_p {
+  padding-right: 0;
+}
+/* contart start */
+.cont_btn {
+  font-size: 16px;
+  padding: 12px 30px;
+ 
+}
+.cont_h2 {
+  font-size: 40px
+}
+
+.cont_r_h3 {
+  font-size: 24px;
+
+}
+.cont_r{
+  padding-top: 40px;
+  border:none;
+  
+}
+/* sponsor start */
+.sponsor{
+  padding:60px 0  0;
+}
+/* dowenload start */
+.dw_img {
+  padding: 40px 70px 0px;
+}
+/* footer starts */
+.ft_logo img {
+  padding: 0 100px 20px;
+}
+.foot_h2 {
+  padding-top: 45px;
+}
+.cmmn_btn {
+  padding: 12px 14px;
+}
+.ft_titel {
+  padding: 0;
+}
+.footer-buttom {
+  margin-top: 60px;
+  padding: 16px 0 10px;
+
+}
+}
+
+ 
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+         /* header sratrt */
+  header {
+    padding:  0;
+    
+    }
+    .menu ul li a {
+      padding: 12px  16px !important;
+    
+    }
+    .btn_common {
+       margin-left: 10px;
+      }
+        /* banner starts */
+    .slider_h1 {
+      font-size: 46px;
+
+  }
+  .banner_wp {
+    padding: 240px 50px 100px;
+}
+.slider_h1 {
+  margin: 9px 0 14px 0;
+
+}
+.slider_h3 {
+  font-size: 26px;
+  letter-spacing: 4px;
+
+}
+/* about start */
+.about {
+  padding: 60px 0 50px;
+}
+.abt_img img {
+  padding: 0 135px;
+}
+.abt_h2 {
+  font-size: 40px;
+}
+/* service start */
+.btn_common {
+  width: 170px;
+  height: 42px;
+ }
+ .spc_item {
+  padding: 50px 148px 0;
+}
+/*testimonial start */
+.testi_padd {
+  padding-top: 30px;
+}
+/* contart start */
+.cont_h2 {
+  font-size: 48px;
+}
+.cont_r_h3 {
+  font-size: 28px;
+
+}
+.cont_r{
+  padding-top: 40px;
+  border:none;
+  
+}
+/* sponsor start */
+.sponsor{
+  padding:60px 0  0;
+}
+/* dowenload start */
+.dw_img {
+  padding: 40px 149px;
+}
+/* footer starts */
+.ft_logo img {
+  padding: 0 178px 20px;
+}
+.foot_h2 {
+  padding-top: 45px;
+}
+.cmmn_btn {
+  padding: 12px 14px;;
+}
+.footer-buttom {
+  margin-top: 60px;
+  padding: 16px 0 10px;
+
+}
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+     /* header sratrt */
+  header {
+    padding:  0;
+    
+    }
+    .menu ul li a {
+      padding: 0 12px !important;
+    }
+    /* banner starts */
+    .slider_h1 {
+      font-size: 50px;
+
+  }
+  /* about start */
+  .about {
+    padding: 80px 0 70px;
+  }
+  .abt_h2 {
+    padding: 12px 0 20px;
+    font-size: 34px;
+}
+.abt_li li{
+  padding: 6px 0;
+}
+/* about start */
+/* service start */
+.btn_common {
+  width: 185px;
+  height: 42px;
+ }
+ .spc_item {
+  padding: 28px 10px 0;
+
+}
+/* testimonial starts */
+.testi_img img{
+  padding: 3px;
+}
+/* contart start */
+.cont_h2 {
+  font-size: 42px;
+}
+.cont_r_h3 {
+  font-size: 28px;
+
+}
+.sponsor{
+  padding:80px 0  0;
+}
+/* dowenload start */
+.dw_img {
+  padding: 0 0px;
+}
+/* footer starts */
+.ft_logo img {
+  padding-right: 95px;
+}
+
+.ft_titel {
+  padding: 0;
+}
+.cmmn_btn {
+  padding: 12px 15px;
+
+}
+
+}
+ 
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (mi-width: 1200px) and (max-width: 1399.98px) { 
+  /* header sratrt */
+  header {
+    padding: 2px 0;
+    
+}
+.spc_item {
+  padding: 40px 32px 0;
+
+}
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    /* header sratrt */
+    header {
+      padding: 2px 0;
+      
+  }
+  /* dwenload start */
+  .dw_img {
+    padding: 0 112px;
+}
+ }
